@@ -271,3 +271,9 @@ ul li span {
     color: #FB5B21;
     background-color: rgb(10, 8, 8);
 }
+
+#contactForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
